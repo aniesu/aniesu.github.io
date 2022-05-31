@@ -15,3 +15,9 @@ Body { background-color: #006600;}
 #about-h1 {color: #DCE6A7}
 
 #about-p {color: #DCE6A7}
+
+#bg {positioned: fixed; 
+     top: 0;
+     left: 0;
+     min-width: 100%;
+  min-height: 100%;}
