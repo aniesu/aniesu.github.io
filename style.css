@@ -1,7 +1,5 @@
 Body { background-color: #006600;
-       background-image: url(myBackground.jpg);
-       background-position: right;
-       background-repeat: no-repeat; }
+       background-image: url(myBackground.jpg); }
 
 #nav-table {width: 1024px;}
 
