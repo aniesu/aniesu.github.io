@@ -1,5 +1,4 @@
-Body { background-color: #006600;
-       background-image: url(myBackground.jpg); }
+Body { background-color: #006600; }
 
 #nav-table {width: 1024px;}
 
@@ -16,3 +15,5 @@ Body { background-color: #006600;
 #about-h1 {color: #DCE6A7}
 
 #about-p {color: #DCE6A7}
+
+#about-bg {background-image: url(myBackground.jpg);}
