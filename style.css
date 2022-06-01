@@ -1,4 +1,6 @@
-Body { background-color: #006600; }
+Body { background-color: #006600; 
+       background-image: url(myBackground.jpg);
+       background-position: right;}
 
 #nav-table {width: 1024px;}
 
@@ -16,4 +18,3 @@ Body { background-color: #006600; }
 
 #about-p {color: #DCE6A7}
 
-#about-bg {background-image: url(myBackground.jpg);}
